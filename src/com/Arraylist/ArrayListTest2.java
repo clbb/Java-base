@@ -18,6 +18,6 @@ public class ArrayListTest2 {
             System.out.println(((Integer)in[i]).intValue());
         }
 
-        list.remove
+      //  list.remove
     }
 }
